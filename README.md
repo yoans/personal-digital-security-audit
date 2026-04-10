@@ -180,15 +180,17 @@ The audit is structured as a **progression system**. You start wherever you are 
 - 📦 *Dead Man's Kit* — Emergency access kit created and stored securely
 - 🛡️ *Family Shield* — Audited and assisted one family member
 
-### Partner Prizes (Target Partnerships)
-The gamification system is designed to support real-world rewards for meaningful progress:
+### Partner Prizes (Seeking Sponsors)
+This is a community project — we don't have a prize budget. But the gamification system is designed to support real-world rewards if sponsors step up. If you're a company that makes security tools and want to put product in the hands of people actually doing the work, we'd love to talk.
 
-- **YubiKey / Yubico** — Free hardware key at "Hardened" level
-- **Bitwarden** — Premium account for completing credential module
-- **Backblaze / backup providers** — Free year for completing device module
-- **Proton** — Free ProtonMail/VPN upgrade for social attack surface completion
-- **Credit monitoring providers** — Free identity monitoring enrollment
-- **Cyber insurance providers** — Preferred rates for "Resilient" and above users
+**Dream tier examples (open to sponsors):**
+- **Hardware key maker** — Free key at "Hardened" level
+- **Password manager** — Premium account for completing credential module
+- **Backup provider** — Free year for completing device module
+- **Privacy-focused email/VPN** — Upgrade for social attack surface completion
+- **Credit monitoring** — Free enrollment for "Resilient" users
+
+**Interested in sponsoring?** Open an issue or reach out. We'll give you proper credit and connect your product with people who genuinely need it.
 
 ---
 
