@@ -7,20 +7,34 @@
   <meta name="description" content="An open resilience framework for hardening your digital life against AI-augmented attacks. Free guides, tools, worksheets, and agent prompts.">
   <meta property="og:title" content="Project Chrysalis">
   <meta property="og:description" content="An open resilience framework for hardening your digital life against AI-augmented attacks.">
-  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <style>
     :root {
       --theme-color: #2d6a4f;
       --base-font-size: 16px;
-      --cover-background-color: #1b2d27;
-      --cover-color: #fff;
+      --sidebar-name-color: #2d6a4f;
+      --sidebar-name-font-size: 1.2rem;
+      --sidebar-name-font-weight: 700;
+      --sidebar-nav-link-color--active: #2d6a4f;
+      --sidebar-nav-link-border-color--active: #2d6a4f;
+      --link-color: #2d6a4f;
     }
     .sidebar {
       border-right: 1px solid #eee;
     }
     .markdown-section h1:first-child {
       margin-top: 0;
+    }
+    .markdown-section blockquote {
+      border-left: 4px solid #2d6a4f;
+      background: #f0f7f4;
+      padding: 0.75em 1em;
+    }
+    .markdown-section blockquote strong {
+      color: #b33;
+    }
+    .app-name-link {
+      text-decoration: none !important;
     }
   </style>
 </head>
@@ -30,27 +44,23 @@
   <script>
     window.$docsify = {
       name: 'Project Chrysalis',
+      nameLink: '/',
       repo: 'https://github.com/yoans/personal-digital-security-audit',
       loadSidebar: true,
       loadNavbar: false,
       coverpage: false,
       auto2top: true,
+      relativePath: false,
       maxLevel: 3,
       subMaxLevel: 2,
+      notFoundPage: true,
       search: {
         maxAge: 86400000,
         paths: 'auto',
         placeholder: 'Search the guides...',
         noData: 'Nothing found.',
         depth: 4
-      },
-      plugins: [
-        function(hook) {
-          hook.beforeEach(function(html) {
-            return html;
-          });
-        }
-      ]
+      }
     }
   </script>
 

@@ -114,7 +114,7 @@ Your phone number is often the weakest hub. Steps to reduce exposure:
 ---
 
 ## Agent Prompt
-Use an AI agent to help map your dependencies: [`agent-prompts/02-dependency-graph.md`](../../agent-prompts/02-dependency-graph.md)
+Use an AI agent to help map your dependencies: [Agent Prompt — Dependency Graph](/agent-prompts/02-dependency-graph.md)
 
 ---
 
@@ -128,4 +128,4 @@ Use an AI agent to help map your dependencies: [`agent-prompts/02-dependency-gra
 - [ ] Built dependency map table
 - [ ] Prioritized red flags for Module 3 action
 
-**Next:** [Module 3 — Credential & Access Architecture](../03-credential-architecture/guide.md)
+**Next:** [Module 3 — Credential & Access Architecture](/modules/03-credential-architecture/guide.md)

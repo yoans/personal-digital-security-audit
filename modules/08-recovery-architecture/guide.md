@@ -177,8 +177,8 @@ Always re-audit when:
 ---
 
 ## Agent Prompt
-Build your personal incident response playbook with AI assistance: [`agent-prompts/08-recovery-architecture.md`](../../agent-prompts/08-recovery-architecture.md)
+Build your personal incident response playbook with AI assistance: [Agent Prompt — Recovery Architecture](/agent-prompts/08-recovery-architecture.md)
 
 ---
 
-*You've completed the eight modules. Return to the [master checklist](../../worksheets/) or review your [Security Level](../../README.md#gamification-system-v2) progress.*
+*You've completed the eight modules. Return to the [master checklist](/worksheets/master-checklist.md) or review your [Security Level](/#gamification-system-v2) progress.*

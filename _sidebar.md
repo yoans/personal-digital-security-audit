@@ -1,4 +1,5 @@
 - **[Home](README.md)**
+- **[Before You Begin: Privacy](README.md#before-you-begin-protect-yourself)**
 - **[Master Checklist](worksheets/master-checklist.md)**
 
 ---

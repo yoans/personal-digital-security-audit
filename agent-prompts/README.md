@@ -9,6 +9,36 @@ The prompts are designed to be:
 
 ---
 
+## Read This First: Privacy
+
+> **Do not make yourself less secure by using these prompts carelessly.**
+
+These prompts ask you to share personal information about your accounts, devices, and habits with an AI. Before you start, decide how you're going to do this safely.
+
+**Option A: Use a local model (recommended for sensitive work)**
+
+A local model runs entirely on your machine. Your data never leaves your device. No company stores it, trains on it, or can be breached to expose it.
+
+| Tool | Difficulty | Notes |
+|---|---|---|
+| **[Ollama](https://ollama.com) + Llama 3** | Easy | One-command install. Mac, Linux, Windows. Great for all 8 modules. |
+| **[LM Studio](https://lmstudio.ai)** | Easy | GUI app. Download a model, start chatting. No command line needed. |
+| **[Jan](https://jan.ai)** | Easy | Open source desktop chat app. Clean and simple. |
+
+**Option B: Use a hosted model carefully**
+
+If you use Claude, ChatGPT, or Gemini:
+- **Never paste:** passwords, SSNs, financial account numbers, recovery codes, carrier PINs, or master password hints
+- **Acceptable to share:** service names (Gmail, Netflix), general device types, general habits, your city
+- **Check your provider's data retention policy** — some retain conversations for training by default; some let you opt out
+- **Delete the conversation when you're done** if your provider allows it
+
+**Option C: Skip the AI**
+
+The module guides are complete standalone resources. Every module can be worked through without an AI assistant. The prompts are an accelerator, not a requirement.
+
+---
+
 ## Prompts
 
 | Module | What the Agent Does | File |
@@ -36,15 +66,18 @@ The prompts are designed to be:
 
 ## Which AI to Use
 
-Any capable frontier model works. For sensitive context:
-- **Avoid pasting real passwords, SSNs, or financial account numbers** — ever, in any chat
-- For the Social Attack Surface module: you'll be asked for your name and city — this is fine in a private chat session, but be aware of your AI provider's data retention policies
-- Claude and GPT-4-class models handle the scenario-based modules (6, 7, 8) particularly well
+For **Modules 1–5** (inventory, mapping, device audit): any capable model works, including local models. These are structured Q&A — even a smaller local model handles them well.
+
+For **Modules 6–8** (social attack surface, AI threat literacy, recovery): a frontier model (Claude, GPT-4-class) produces substantially better scenarios and analysis. If you're comfortable with the privacy tradeoffs, this is where hosted models add the most value.
+
+**For maximum privacy:** Use Ollama with Llama 3 70B (or 8B on lighter hardware). Install: `curl -fsSL https://ollama.com/install.sh | sh && ollama run llama3`.
 
 ---
 
-## Privacy Note
+## Privacy Reminder
 
-These prompts ask you to share personal context with an AI assistant. What you share is subject to that provider's privacy policy. For the most sensitive work:
-- Use a model running locally (Ollama + Llama 3 or similar) if you're privacy-conscious
-- Or use the module guides directly without the AI prompts — they're complete standalone resources
+Every prompt in this folder includes a notes section reminding you what not to share. But the overarching rules are simple:
+
+1. **If it could be used to take over an account, don't type it into a chat**
+2. **If you're not sure, use a local model**
+3. **If you don't want to use AI, the guides work on their own**

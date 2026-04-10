@@ -157,6 +157,6 @@ Store your freeze PINs in your password manager.
 ---
 
 ## Agent Prompt
-[`agent-prompts/05-physical-security.md`](../../agent-prompts/05-physical-security.md)
+[Agent Prompt — Physical Security](/agent-prompts/05-physical-security.md)
 
-**Next:** [Module 6 — Social Attack Surface](../06-social-attack-surface/guide.md)
+**Next:** [Module 6 — Social Attack Surface](/modules/06-social-attack-surface/guide.md)

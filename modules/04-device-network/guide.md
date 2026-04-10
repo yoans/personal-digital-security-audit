@@ -197,6 +197,6 @@ Build and maintain this:
 ---
 
 ## Agent Prompt
-[`agent-prompts/04-device-network.md`](../../agent-prompts/04-device-network.md)
+[Agent Prompt — Device & Network](/agent-prompts/04-device-network.md)
 
-**Next:** [Module 5 — Physical Security](../05-physical-security/guide.md)
+**Next:** [Module 5 — Physical Security](/modules/05-physical-security/guide.md)

@@ -152,7 +152,7 @@ Use these to calibrate your threat model and test your preparation. After each s
 
 **For family conversations:** These scenarios are concrete and non-technical enough to share with family members who aren't going to read a security guide. The voice clone scenario works particularly well for parents and older relatives.
 
-**For training:** Use the [Module 7 agent prompt](../agent-prompts/07-ai-threat-literacy.md) to generate personalized versions of these scenarios — customized to your employer, your relationships, and your real account patterns.
+**For training:** Use the [Module 7 agent prompt](/agent-prompts/07-ai-threat-literacy.md) to generate personalized versions of these scenarios — customized to your employer, your relationships, and your real account patterns.
 
 ---
 

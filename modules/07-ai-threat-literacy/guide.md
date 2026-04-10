@@ -163,6 +163,6 @@ Define this now, before you need it. Write it down. Share it with your trusted p
 ---
 
 ## Agent Prompt
-Run a personalized phishing scenario training session with an AI agent: [`agent-prompts/07-ai-threat-literacy.md`](../../agent-prompts/07-ai-threat-literacy.md)
+Run a personalized phishing scenario training session with an AI agent: [Agent Prompt — AI Threat Literacy](/agent-prompts/07-ai-threat-literacy.md)
 
-**Next:** [Module 8 — Recovery Architecture & Ongoing Ops](../08-recovery-architecture/guide.md)
+**Next:** [Module 8 — Recovery Architecture & Ongoing Ops](/modules/08-recovery-architecture/guide.md)

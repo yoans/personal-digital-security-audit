@@ -153,6 +153,6 @@ When a service you use announces a data breach:
 ---
 
 ## Agent Prompt
-Use an AI agent to audit your current setup and get a prioritized action list: [`agent-prompts/03-credential-architecture.md`](../../agent-prompts/03-credential-architecture.md)
+Use an AI agent to audit your current setup and get a prioritized action list: [Agent Prompt — Credential Architecture](/agent-prompts/03-credential-architecture.md)
 
-**Next:** [Module 4 — Device & Network Baseline](../04-device-network/guide.md)
+**Next:** [Module 4 — Device & Network Baseline](/modules/04-device-network/guide.md)

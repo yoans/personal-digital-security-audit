@@ -104,7 +104,7 @@ Create a spreadsheet or table with these columns:
 ---
 
 ## Agent Prompt
-Use an AI agent to help surface accounts you've forgotten: [`agent-prompts/01-identity-inventory.md`](../../agent-prompts/01-identity-inventory.md)
+Use an AI agent to help surface accounts you've forgotten: [Agent Prompt — Identity Inventory](/agent-prompts/01-identity-inventory.md)
 
 ---
 
@@ -119,4 +119,4 @@ Use an AI agent to help surface accounts you've forgotten: [`agent-prompts/01-id
 - [ ] Ran all email addresses through HaveIBeenPwned
 - [ ] Started deleting dormant accounts
 
-**Next:** [Module 2 — Dependency Graph](../02-dependency-graph/guide.md)
+**Next:** [Module 2 — Dependency Graph](/modules/02-dependency-graph/guide.md)

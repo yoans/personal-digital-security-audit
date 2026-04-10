@@ -188,6 +188,6 @@ If you maintain a professional presence and personal social presence, consider u
 ---
 
 ## Agent Prompt
-[`agent-prompts/06-social-attack-surface.md`](../../agent-prompts/06-social-attack-surface.md)
+[Agent Prompt — Social Attack Surface](/agent-prompts/06-social-attack-surface.md)
 
-**Next:** [Module 7 — AI Threat Literacy](../07-ai-threat-literacy/guide.md)
+**Next:** [Module 7 — AI Threat Literacy](/modules/07-ai-threat-literacy/guide.md)

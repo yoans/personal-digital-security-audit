@@ -9,6 +9,29 @@ This project is for everyone, from non-technical users to professionals. It is f
 
 ---
 
+## Before You Begin: Protect Yourself
+
+> **This guide includes AI agent prompts that ask you to share personal context with an AI assistant. Read this section first.**
+
+**Rule 1: Never share private information with an AI you don't control.**
+Hosted AI services (Claude, ChatGPT, Gemini) process your input on their servers. Their privacy policies may permit training on your data, retain your conversations, or expose them in a breach. **Do not paste passwords, SSNs, financial account numbers, recovery codes, or carrier PINs into any hosted AI chat.**
+
+**Rule 2: For the most sensitive work, use a local model.**
+A local model runs entirely on your machine. Your data never leaves your device. This is the only way to guarantee privacy when working through these audits with AI assistance.
+
+| Local Model Option | Difficulty | Notes |
+|---|---|---|
+| **[Ollama](https://ollama.com) + Llama 3** | Easy | One-command install. Runs on Mac, Linux, Windows. |
+| **[LM Studio](https://lmstudio.ai)** | Easy | GUI app. Download models and chat locally. No setup. |
+| **[Jan](https://jan.ai)** | Easy | Open source desktop app. Clean UI. |
+
+If you don't want to use AI at all — **the module guides are complete standalone resources.** Every module can be worked through without an AI assistant. The prompts are an accelerator, not a requirement.
+
+**Rule 3: Don't make yourself less secure in the process of auditing your security.**
+If you're working through Module 1 (account inventory), don't export your password vault to a cloud-synced folder. If you're building a dependency graph, don't put it in an unencrypted Google Sheet that's shared with "anyone with the link." Think about where your audit artifacts live.
+
+---
+
 ## The Threat We're Responding To
 
 Traditional cybersecurity advice was written for an era of human attackers and blunt automation. The rules have changed.
@@ -192,15 +215,19 @@ The gamification system is designed to support real-world rewards for meaningful
 
 ## Roadmap
 
-- [ ] v1 Module 1: Identity Inventory guide
-- [ ] v1 Module 2: Dependency Graph worksheet
-- [ ] v1 Module 3: Credential Architecture guide
-- [ ] v1 Module 4: Device & Network baseline checklist
-- [ ] v1 Module 5: Physical Security guide
-- [ ] v1 Module 6: Social Attack Surface guide + OSINT self-audit tools
-- [ ] v1 Module 7: AI Threat Literacy intro + phishing scenarios
-- [ ] v1 Module 8: Recovery Architecture playbook
-- [ ] v1 Printable master checklist
+- [x] v1 Module 1: Identity Inventory guide
+- [x] v1 Module 2: Dependency Graph worksheet
+- [x] v1 Module 3: Credential Architecture guide
+- [x] v1 Module 4: Device & Network baseline checklist
+- [x] v1 Module 5: Physical Security guide
+- [x] v1 Module 6: Social Attack Surface guide + OSINT self-audit tools
+- [x] v1 Module 7: AI Threat Literacy intro + phishing scenarios
+- [x] v1 Module 8: Recovery Architecture playbook
+- [x] v1 Printable master checklist
+- [x] v1 Agent prompts for all 8 modules
+- [x] v1 Recommended tools guide
+- [x] v1 Breach scenarios
+- [x] v1 Docsify site (GitHub Pages)
 - [ ] v2 Web app with scoring and achievements
 - [ ] v2 Partnership integrations
 - [ ] v3 Community platform
