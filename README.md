@@ -1,6 +1,8 @@
 # Personal Digital Security Audit
 ### *Project Chrysalis*
 
+> A free public-safety resource from **[Build Beyond Belief](https://buildbeyondbelief.com)**
+
 > "A chrysalis doesn't hide. It transforms. You go in exposed and dependent — you come out resilient. That's the model."
 
 This is an **open, public-safety oriented** framework for individuals who want to audit and harden their digital life against the new era of AI-augmented, agent-driven attacks. It is not a password manager. It is not a scanner. It is a **resilience architecture** — a system for understanding and eliminating single points of failure across your entire digital and physical life.
@@ -245,6 +247,14 @@ This is a community resource. Contributions welcome — guides, real-world scena
 ## License
 
 [MIT License](LICENSE) — free to use, share, adapt, and build on.
+
+---
+
+## About the Publisher
+
+**Project Chrysalis** is published and maintained by **[Build Beyond Belief](https://buildbeyondbelief.com)** — a studio building tools, frameworks, and communities that help people take control of their digital lives.
+
+Want more resources like this? Visit **[buildbeyondbelief.com](https://buildbeyondbelief.com)** for guides, tools, and projects designed to make you more resilient.
 
 ---
 

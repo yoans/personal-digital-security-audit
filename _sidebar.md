@@ -40,3 +40,7 @@
   - [Recommended Tools](tools/recommended-tools.md)
   - [Breach Scenarios](scenarios/breach-scenarios.md)
   - [Contributing](CONTRIBUTING.md)
+
+---
+
+- **Published by [Build Beyond Belief](https://buildbeyondbelief.com)**
