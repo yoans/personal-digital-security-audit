@@ -262,7 +262,7 @@ Want more resources like this? Visit **[buildbeyondbelief.com](https://buildbeyo
 
 ## About the Author
 
-Maintained by Nathaniel Young., founder of Build Beyond Belief. Background in software engineering and applied AI. This project exists because the people closest to me kept asking the same question ("what do I actually do?") and the existing answers were either too technical, too narrow, or aimed at corporate IT. If you find a gap or an error, [open an issue](https://github.com/yoans/personal-digital-security-audit/issues), it improves the guide for everyone.
+Maintained by Nathaniel Young, founder of Build Beyond Belief. Background in software engineering and applied AI. This project exists because the people closest to me kept asking the same question ("what do I actually do?") and the existing answers were either too technical, too narrow, or aimed at corporate IT. If you find a gap or an error, [open an issue](https://github.com/yoans/personal-digital-security-audit/issues), it improves the guide for everyone.
 
 ---
 
