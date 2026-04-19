@@ -202,7 +202,7 @@ These aren't one-time items, they're habits and practices.
 
 Most people will never see a guide like this on their own. The single highest-leverage thing you can do after completing your own audit is hand it to one other person who would not have found it.
 
-- Send it to a parent, sibling, partner, or friend: `https://yoans.github.io/personal-digital-security-audit`
+- Send it to a parent, sibling, partner, or friend: `https://chrysalis.buildbeyondbelief.com`
 - Share on LinkedIn or your platform of choice with a one-line note about why you did it
 - Open an issue on the repo with anything you'd improve
 
