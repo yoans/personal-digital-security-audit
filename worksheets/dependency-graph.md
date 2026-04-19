@@ -1,5 +1,5 @@
 # Dependency Graph Worksheet
-*Module 2 output — map what breaks if each account falls*
+*Module 2 output, map what breaks if each account falls*
 
 Complete your Account Inventory (Module 1) first.
 
@@ -11,9 +11,9 @@ For each account you classified as a **Hub**, fill in this table.
 
 | Account | Login Email | Recovery Email | Recovery Phone? | 2FA Type | OAuth: I log into... | If compromised, attacker can reach... | If lost, I permanently lose... | Priority Fixes |
 |---|---|---|---|---|---|---|---|---|
-| Primary Gmail | | — | 📵 No | App auth | [list services] | [list accounts] | [list losses] | |
+| Primary Gmail | | - | 📵 No | App auth | [list services] | [list accounts] | [list losses] | |
 | Apple ID | | | | | | | | |
-| Personal phone # | N/A | N/A | — | N/A | | [all SMS 2FA] | | |
+| Personal phone # | N/A | N/A | - | N/A | | [all SMS 2FA] | | |
 | Password Manager | | | | | | | | |
 | Primary Bank | | | | | | | | |
 | | | | | | | | | |
@@ -64,15 +64,15 @@ If an attacker took my phone number, they could access:
 
 | Account | Red Flag | Severity | Fixed? |
 |---|---|---|---|
-| Example: Apple ID | SMS 2FA — SIM swap vulnerable | 🔴 Critical | No |
+| Example: Apple ID | SMS 2FA, SIM swap vulnerable | 🔴 Critical | No |
 | | | | |
 | | | | |
 | | | | |
 
 **Severity key:**
-- 🔴 Critical — fix this week (hub account + SMS or no recovery)
-- 🟡 Important — fix this month
-- 🟢 Minor — fix when convenient
+- 🔴 Critical, fix this week (hub account + SMS or no recovery)
+- 🟡 Important, fix this month
+- 🟢 Minor, fix when convenient
 
 ---
 
@@ -88,4 +88,8 @@ If an attacker took my phone number, they could access:
 
 ---
 
-*Complete → move to Module 3: Credential Architecture*
+*Complete, then move to Module 3: Credential Architecture.*
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

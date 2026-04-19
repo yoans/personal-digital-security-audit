@@ -1,9 +1,9 @@
 # Module 8: Recovery Architecture & Ongoing Ops
 *Given a breach, how fast can you recover? What's the plan?*
 
-Security isn't a state you reach. It's a cadence. This module assumes you will be breached — because eventually you will be — and builds the systems to detect it fast, respond correctly, and recover fully. It also establishes the lightweight ongoing practice that keeps your posture from decaying.
+Security isn't a state you reach. It's a cadence. This module assumes you will be breached, because eventually you will be, and builds the systems to detect it fast, respond correctly, and recover fully. It also establishes the lightweight ongoing practice that keeps your posture from decaying.
 
-**Time required:** 2–3 hours to build your playbook; 30 minutes quarterly after that  
+**Time required:** 2-3 hours to build your playbook; 30 minutes quarterly after that  
 **Output:** A personal incident response playbook; a quarterly review cadence
 
 ---
@@ -29,7 +29,7 @@ Security isn't a state you reach. It's a cadence. This module assumes you will b
 - Contact your carrier about insurance claim if applicable
 - Review your email and financial accounts for any activity in the window between device loss and remote wipe
 
-**Prevention check:** After you resolve this — did you have Find My enabled? Were backup codes accessible? Did you know which accounts were active on that device? Fill the gaps found.
+**Prevention check:** After you resolve this, did you have Find My enabled? Were backup codes accessible? Did you know which accounts were active on that device? Fill the gaps found.
 
 ---
 
@@ -38,7 +38,7 @@ Security isn't a state you reach. It's a cadence. This module assumes you will b
 **Signs:** Unexpected login notifications; contacts reporting odd messages from you; locked out of an account; unfamiliar activity in account history.
 
 **Immediate:**
-1. Attempt recovery immediately — use your backup codes, recovery email, or authenticator app
+1. Attempt recovery immediately, use your backup codes, recovery email, or authenticator app
 2. If recovered: change password immediately to a new unique one
 3. Revoke all active sessions on that account (usually under Security settings)
 4. Review the activity log: what did they access? What did they send? When did the breach start?
@@ -61,21 +61,21 @@ Security isn't a state you reach. It's a cadence. This module assumes you will b
 **Signs:** Credit application denial when you didn't apply; unfamiliar accounts on your credit report; debt collectors for debts you don't recognize; government benefits denied because they've already been claimed.
 
 **Steps:**
-1. **Place a fraud alert** at Experian — this is free and they are required to notify Equifax and TransUnion
-   - [experian.com/fraud-alert](https://www.experian.com/fraud-alert) — valid 1 year, renewable
+1. **Place a fraud alert** at Experian, this is free and they are required to notify Equifax and TransUnion
+   - [experian.com/fraud-alert](https://www.experian.com/fraud-alert), valid 1 year, renewable
    - A fraud alert requires lenders to verify your identity before opening new credit
-2. **Escalate to a credit freeze** if you haven't already (see Module 5) — this is stronger than a fraud alert
-3. **File an Identity Theft Report** at [IdentityTheft.gov](https://www.identitytheft.gov) — this generates an official FTC report and a personal recovery plan; it also provides documentation that helps dispute fraudulent accounts
-4. **File a police report** — required by many creditors and financial institutions before they'll remove fraudulent accounts
+2. **Escalate to a credit freeze** if you haven't already (see Module 5), this is stronger than a fraud alert
+3. **File an Identity Theft Report** at [IdentityTheft.gov](https://www.identitytheft.gov), this generates an official FTC report and a personal recovery plan; it also provides documentation that helps dispute fraudulent accounts
+4. **File a police report:** required by many creditors and financial institutions before they'll remove fraudulent accounts
 5. **Document everything:** screenshots, dates, account numbers, all correspondence
-6. **Contact each institution** where fraudulent accounts were opened — provide your FTC Identity Theft Report and police report. Each has a fraud dispute process.
-7. **Request your credit reports** from all three bureaus: [annualcreditreport.com](https://www.annualcreditreport.com) — review for any other unfamiliar accounts
+6. **Contact each institution** where fraudulent accounts were opened, provide your FTC Identity Theft Report and police report. Each has a fraud dispute process.
+7. **Request your credit reports** from all three bureaus: [annualcreditreport.com](https://www.annualcreditreport.com), review for any other unfamiliar accounts
 
 ---
 
 ## The 24-Hour Breach Drill
 
-**Do this once.** Pick your most critical account — your email or password manager. Pretend, right now, that you have completely lost access.
+**Do this once.** Pick your most critical account, your email or password manager. Pretend, right now, that you have completely lost access.
 
 Work through these questions:
 1. Do you have backup codes? Where are they? How long would it take to find them?
@@ -84,7 +84,7 @@ Work through these questions:
 4. If all recovery options fail, what is the account's official recovery process? Have you ever tried it?
 5. If you genuinely cannot recover this account, what do you lose permanently?
 
-**Most people fail this drill.** That's the point. The gaps you find are the things to fix — before a real incident forces it.
+**Most people fail this drill.** That's the point. The gaps you find are the things to fix, before a real incident forces it.
 
 ---
 
@@ -141,7 +141,7 @@ Always re-audit when:
 - Watch for mail redirection fraud in the first 60 days after a move
 
 **Death in the family:**
-- Estate account management is a major attack vector — fraudulent access to deceased persons' accounts is common
+- Estate account management is a major attack vector, fraudulent access to deceased persons' accounts is common
 - Execute the Emergency Access Kit process
 - Notify major financial institutions; close or memorialize social media accounts per the deceased's wishes
 
@@ -177,8 +177,12 @@ Always re-audit when:
 ---
 
 ## Agent Prompt
-Build your personal incident response playbook with AI assistance: [Agent Prompt — Recovery Architecture](/agent-prompts/08-recovery-architecture.md)
+Build your personal incident response playbook with AI assistance: [Agent Prompt: Recovery Architecture](/agent-prompts/08-recovery-architecture.md)
 
 ---
 
 *You've completed the eight modules. Return to the [master checklist](/worksheets/master-checklist.md) or review your [Security Level](/#gamification-system-v2) progress.*
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

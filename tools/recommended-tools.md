@@ -1,5 +1,5 @@
 # Recommended Tools
-*Project Chrysalis — curated tools by category*
+*Project Chrysalis, curated tools by category*
 
 Every tool listed here is either free, open source, independently audited, or clearly the best option in its category. Paid options are noted. No affiliate relationships.
 
@@ -15,7 +15,7 @@ Last reviewed: April 2026
 | **[1Password](https://1password.com)** | $3/mo | ❌ | ✅ | ❌ | Excellent UX, strong security model, great family plan. Closed source but well-audited. |
 | **Apple Keychain** | Free | ❌ | ❌ | ❌ | Acceptable if fully in Apple ecosystem. Does not support passkeys on all platforms. Ties you to Apple as a hub. |
 | **KeePass / KeePassXC** | Free | ✅ | ✅ | Local only | Best for users who want local-only storage with no cloud sync. Steeper setup curve. |
-| ~~LastPass~~ | — | — | — | — | **Avoid.** Encrypted vaults were stolen in 2022; weak iterations made many vaults crackable. |
+| ~~LastPass~~ | - | - | - | - | **Avoid.** Encrypted vaults were stolen in 2022; weak iterations made many vaults crackable. |
 
 **Recommendation:** Bitwarden if you use multiple platforms. 1Password if you prioritize UX and family sharing. KeePassXC if you want zero cloud.
 
@@ -26,12 +26,12 @@ Last reviewed: April 2026
 | Tool | Platform | Open Source? | Encrypted Backup? | Notes |
 |---|---|---|---|---|
 | **[Ente Auth](https://ente.io/auth)** | iOS, Android, Desktop | ✅ | ✅ E2E | **Recommended.** Encrypted backup to their server or self-hosted. Best backup story of any TOTP app. |
-| **[Aegis](https://getaegis.app)** | Android only | ✅ | ✅ Local | Strong, reliable, audited. Export/import support. No cloud sync — backup manually. |
+| **[Aegis](https://getaegis.app)** | Android only | ✅ | ✅ Local | Strong, reliable, audited. Export/import support. No cloud sync, backup manually. |
 | **[Raivo OTP](https://raivo-otp.com)** | iOS only | ✅ | ✅ iCloud | Open source iOS option. iCloud backup (encrypted). |
 | **2FAS** | iOS, Android | ✅ | ✅ | Clean UX, cross-platform, good backup. |
-| ~~Google Authenticator~~ | — | — | ❌ | Google Authenticator now syncs to Google account — no independent encryption. Keys are accessible to Google. |
-| ~~Microsoft Authenticator~~ | — | — | Unclear | Closed source; backup encryption unaudited. |
-| ~~Authy~~ | — | — | ❌ | Closed source. Backup keys are accessible on their servers. Not recommended for sensitive accounts. |
+| ~~Google Authenticator~~ | - | - | ❌ | Google Authenticator now syncs to Google account, no independent encryption. Keys are accessible to Google. |
+| ~~Microsoft Authenticator~~ | - | - | Unclear | Closed source; backup encryption unaudited. |
+| ~~Authy~~ | - | - | ❌ | Closed source. Backup keys are accessible on their servers. Not recommended for sensitive accounts. |
 
 ---
 
@@ -67,7 +67,7 @@ Last reviewed: April 2026
 | **[Kanary](https://www.kanary.com)** | ~$90/yr | 200+ | Strong monitoring and alerts when you reappear. |
 | **Manual opt-outs** | Free | All | Time-consuming but free. Use [JustDeleteMe](https://justdeleteme.com) as a starting point. |
 
-**Start with manual opt-outs on the top 5–10 brokers.** If your exposure is medium or high (found on 3+ brokers), an automated service is worth the cost.
+**Start with manual opt-outs on the top 5-10 brokers.** If your exposure is medium or high (found on 3+ brokers), an automated service is worth the cost.
 
 ---
 
@@ -89,7 +89,7 @@ Last reviewed: April 2026
 | **[Mullvad](https://mullvad.net)** | ~$5/mo | ✅ | ❌ No logs | **Recommended.** Anonymous accounts (no email required to sign up). Flat-rate, audited. |
 | **[ProtonVPN](https://protonvpn.com)** | Free / $10/mo | ✅ | ❌ No logs | Free tier is genuinely usable. Swiss-based. Same org as ProtonMail. |
 | **[IVPN](https://www.ivpn.net)** | ~$6/mo | ✅ | ❌ No logs | Less known but excellent; also supports anonymous accounts. |
-| Any VPN without a published third-party audit | — | ❌ | Unknown | **Avoid.** "No logs" claims without audits are unverifiable. |
+| Any VPN without a published third-party audit | - | ❌ | Unknown | **Avoid.** "No logs" claims without audits are unverifiable. |
 
 **Reminder:** A VPN is useful for public WiFi and ISP privacy. It doesn't protect you from a compromised device, phishing, or misconfigurations.
 
@@ -125,9 +125,9 @@ Last reviewed: April 2026
 | **[AnnualCreditReport.com](https://www.annualcreditreport.com)** | Free | Full credit reports from all 3 bureaus | Check all three quarterly |
 | **Experian free monitoring** | Free | Alerts on changes to Experian report | Useful baseline |
 | **[Credit Karma](https://www.creditkarma.com)** | Free | Monitoring on TransUnion and Equifax | Good free monitoring; ad-supported |
-| Paid credit monitoring | $15–40/mo | Wider monitoring, identity theft insurance | Often included with credit cards — check yours |
+| Paid credit monitoring | $15-40/mo | Wider monitoring, identity theft insurance | Often included with credit cards, check yours |
 
-**Credit freezes are free and more protective than monitoring.** See Module 5. Monitor AND freeze — they serve different purposes.
+**Credit freezes are free and more protective than monitoring.** See Module 5. Monitor AND freeze, they serve different purposes.
 
 ---
 
@@ -135,13 +135,13 @@ Last reviewed: April 2026
 
 | Product | Purpose | Approx Cost |
 |---|---|---|
-| **Micro-cut shredder** | Document destruction | $80–150 |
-| **Cross-cut shredder** | Document destruction (minimum acceptable) | $30–50 |
-| **Fireproof document bag or safe** | Physical document storage | $30–200 |
+| **Micro-cut shredder** | Document destruction | $80-150 |
+| **Cross-cut shredder** | Document destruction (minimum acceptable) | $30-50 |
+| **Fireproof document bag or safe** | Physical document storage | $30-200 |
 | **USB data blocker (PortaPow)** | Block data on public USB charge ports | $10 |
-| **Laptop privacy screen filter** | Block shoulder surfing | $20–40 |
-| **Kensington cable lock** | Deter opportunistic laptop theft | $30–50 |
+| **Laptop privacy screen filter** | Block shoulder surfing | $20-40 |
+| **Kensington cable lock** | Deter opportunistic laptop theft | $30-50 |
 
 ---
 
-*Tools added or updated? Open a PR or issue. Tool landscape changes — keeping this current matters.*
+*Tools added or updated? Open a PR or issue. Tool landscape changes, keeping this current matters.*

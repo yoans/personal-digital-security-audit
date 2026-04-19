@@ -57,15 +57,15 @@ After I've answered, give me:
 
 For each fix, give me the specific steps or tell me exactly what to search for to find the setting.
 
-Be specific. "Enable encryption" isn't useful — "Go to Settings → Privacy & Security → FileVault → Turn On" is.
+Be specific. "Enable encryption" isn't useful, "Go to Settings → Privacy & Security → FileVault → Turn On" is.
 ```
 
 ---
 
 ## What to Do With the Output
 
-1. Save the device inventory table — update it quarterly (Module 8)
-2. Run Fing ([fing.com](https://www.fing.com)) on your phone while on your home network — you'll almost certainly find devices you forgot were connected
+1. Save the device inventory table, update it quarterly (Module 8)
+2. Run Fing ([fing.com](https://www.fing.com)) on your phone while on your home network, you'll almost certainly find devices you forgot were connected
 3. If your router is more than 4 years old and the manufacturer hasn't released firmware updates in 2 years: seriously consider replacing it
 
 ---
@@ -74,5 +74,5 @@ Be specific. "Enable encryption" isn't useful — "Go to Settings → Privacy & 
 
 - For Windows encryption status: type "BitLocker" into the Start menu search bar
 - For Mac FileVault: System Settings → Privacy & Security → FileVault
-- Router admin panel is usually at `192.168.1.1` or `192.168.0.1` in your browser — check your network settings for "Default Gateway" if neither works
+- Router admin panel is usually at `192.168.1.1` or `192.168.0.1` in your browser, check your network settings for "Default Gateway" if neither works
 - Don't give the AI your router admin password or Wi-Fi credentials

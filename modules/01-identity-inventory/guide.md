@@ -3,7 +3,7 @@
 
 Most people have 200+ accounts. Many are forgotten. Forgotten accounts get breached silently and become pivot points into your active life. You cannot protect what you don't know exists.
 
-**Time required:** 2–4 hours for the initial inventory. 15 minutes quarterly after that.
+**Time required:** 2-4 hours for the initial inventory. 15 minutes quarterly after that.
 
 **Output:** A master account list you'll use in every other module.
 
@@ -22,10 +22,10 @@ Search all email addresses (present and past) for these strings:
 "thanks for registering"
 "thanks for signing up"
 ```
-Export or log every service name that appears. Don't filter yet — just collect.
+Export or log every service name that appears. Don't filter yet, just collect.
 
 ### Step 2: Export your password manager
-If you use a password manager: export the vault to CSV temporarily, add services to your list, then delete the export file securely. If you don't have one — this is column proof you need one (see Module 3).
+If you use a password manager: export the vault to CSV temporarily, add services to your list, then delete the export file securely. If you don't have one, this is column proof you need one (see Module 3).
 
 ### Step 3: Check browser saved passwords
 Chrome: `chrome://password-manager/passwords`
@@ -68,19 +68,19 @@ Create a spreadsheet or table with these columns:
 
 | Service | Email Used | Username | Status | Criticality | 2FA? | Notes |
 |---|---|---|---|---|---|---|
-| Gmail | you@gmail.com | — | Active | Hub | App | Primary identity |
+| Gmail | you@gmail.com | - | Active | Hub | App | Primary identity |
 | MyFitnessPal | you@gmail.com | username123 | Dormant | Leaf | No | Breached 2018 |
-| Old Hotmail | old@hotmail.com | — | Forgotten | Leaf | No | May still exist |
+| Old Hotmail | old@hotmail.com | - | Forgotten | Leaf | No | May still exist |
 
 **Status:** Active / Dormant (haven't used in 1yr+) / Unknown  
-**Criticality:** Hub (controls other accounts) / Leaf (stands alone) — you'll refine this in Module 2
+**Criticality:** Hub (controls other accounts) / Leaf (stands alone), you'll refine this in Module 2
 
 ---
 
 ## Actions After Inventory
 
 **Delete what you don't need.** Zombie accounts are liabilities.
-- Start with: [JustDeleteMe.com](https://justdeleteme.com) — rates how easy it is to delete accounts on hundreds of services
+- Start with: [JustDeleteMe.com](https://justdeleteme.com), rates how easy it is to delete accounts on hundreds of services
 - For services not listed: search `[service name] delete account` or `[service name] close account`
 - If a service won't let you delete: change the email and password to something random and log out
 
@@ -99,12 +99,12 @@ Create a spreadsheet or table with these columns:
 | HaveIBeenPwned | Check email addresses for known breaches | [haveibeenpwned.com](https://haveibeenpwned.com) |
 | JustDeleteMe | Delete account guides for hundreds of services | [justdeleteme.com](https://justdeleteme.com) |
 | Google Security Checkup | Review connected apps, recent access, 2FA status | [myaccount.google.com/security-checkup](https://myaccount.google.com/security-checkup) |
-| Firefox Monitor | Breach monitoring — free | [monitor.mozilla.org](https://monitor.mozilla.org) |
+| Firefox Monitor | Breach monitoring, free | [monitor.mozilla.org](https://monitor.mozilla.org) |
 
 ---
 
 ## Agent Prompt
-Use an AI agent to help surface accounts you've forgotten: [Agent Prompt — Identity Inventory](/agent-prompts/01-identity-inventory.md)
+Use an AI agent to help surface accounts you've forgotten: [Agent Prompt: Identity Inventory](/agent-prompts/01-identity-inventory.md)
 
 ---
 
@@ -119,4 +119,8 @@ Use an AI agent to help surface accounts you've forgotten: [Agent Prompt — Ide
 - [ ] Ran all email addresses through HaveIBeenPwned
 - [ ] Started deleting dormant accounts
 
-**Next:** [Module 2 — Dependency Graph](/modules/02-dependency-graph/guide.md)
+**Next:** [Module 2: Dependency Graph](/modules/02-dependency-graph/guide.md)
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

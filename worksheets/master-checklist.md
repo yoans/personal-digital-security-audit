@@ -1,5 +1,5 @@
 # Master Checklist
-*Project Chrysalis — complete audit across all eight modules*
+*Project Chrysalis, complete audit across all eight modules*
 
 Print this. Work through it. Track your progress. You don't have to do it all at once.
 
@@ -7,15 +7,15 @@ Print this. Work through it. Track your progress. You don't have to do it all at
 
 ## How to Use
 
-Work through each module in order if possible — they build on each other. Each module has a full guide at `modules/[number]-[name]/guide.md`.
+Work through each module in order if possible, they build on each other. Each module has a full guide at `modules/[number]-[name]/guide.md`.
 
 Mark each item:
-- `[ ]` — Not done
-- `[~]` — Partially done / in progress
-- `[x]` — Complete
+- `[ ]`, Not done
+- `[~]`, Partially done / in progress
+- `[x]`, Complete
 
 **Your current level:**  
-`[ ]` 0 — Exposed &nbsp; `[ ]` 1 — Aware &nbsp; `[ ]` 2 — Hardened &nbsp; `[ ]` 3 — Resilient &nbsp; `[ ]` 4 — Antifragile
+`[ ]` 0, Exposed &nbsp; `[ ]` 1, Aware &nbsp; `[ ]` 2, Hardened &nbsp; `[ ]` 3, Resilient &nbsp; `[ ]` 4, Antifragile
 
 ---
 
@@ -149,7 +149,7 @@ Mark each item:
 - [ ] Read capabilities section (what AI agents can and can't do)
 - [ ] Worked through all three phishing scenarios
 - [ ] Understood the three-part structure of every phishing attempt
-- [ ] Identified 2–3 verification anchor people
+- [ ] Identified 2-3 verification anchor people
 - [ ] Established backup contact channel with each anchor
 - [ ] Established verification word/phrase with each anchor (in person or private call)
 - [ ] Written and stored personal verification rules (3 rules)
@@ -173,7 +173,7 @@ Mark each item:
 
 ## Level 4: Antifragile
 
-These aren't one-time items — they're habits and practices.
+These aren't one-time items, they're habits and practices.
 
 - [ ] Quarterly review completed at least once
 - [ ] One family member or friend walked through the audit with your help
@@ -198,4 +198,16 @@ These aren't one-time items — they're habits and practices.
 
 ---
 
-*Project Chrysalis — [github.com/yoans/personal-digital-security-audit](https://github.com/yoans/personal-digital-security-audit)*
+## You finished. Now help one other person.
+
+Most people will never see a guide like this on their own. The single highest-leverage thing you can do after completing your own audit is hand it to one other person who would not have found it.
+
+- Send it to a parent, sibling, partner, or friend: `https://yoans.github.io/personal-digital-security-audit`
+- Share on LinkedIn or your platform of choice with a one-line note about why you did it
+- Open an issue on the repo with anything you'd improve
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*
+
+*Repo: [github.com/yoans/personal-digital-security-audit](https://github.com/yoans/personal-digital-security-audit)*

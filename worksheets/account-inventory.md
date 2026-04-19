@@ -1,5 +1,5 @@
 # Account Inventory Worksheet
-*Module 1 output — fill this in during your identity inventory*
+*Module 1 output, fill this in during your identity inventory*
 
 Use this as a starting template. Copy to a spreadsheet for easier sorting and filtering.
 
@@ -8,21 +8,21 @@ Use this as a starting template. Copy to a spreadsheet for easier sorting and fi
 ## Instructions
 
 1. Work through Module 1 to discover your accounts
-2. Add every account you find — don't filter, just collect
+2. Add every account you find, don't filter, just collect
 3. Complete the Status and Criticality columns after you have all accounts listed
 4. Use this list as input for Module 2 (Dependency Graph)
 
 ---
 
 ## Status Key
-- **Active** — Used in the last 12 months
-- **Dormant** — Haven't used in 12+ months; account still exists
-- **Unknown** — Created it at some point; not sure if it still exists
+- **Active:** Used in the last 12 months
+- **Dormant:** Haven't used in 12+ months; account still exists
+- **Unknown:** Created it at some point; not sure if it still exists
 
 ## Criticality Key (fill in after Module 2)
-- **Hub** — If compromised, attackers can reach other accounts
-- **Leaf** — Standalone; losing it doesn't cascade to anything else
-- **TBD** — Haven't mapped yet
+- **Hub:** If compromised, attackers can reach other accounts
+- **Leaf:** Standalone; losing it doesn't cascade to anything else
+- **TBD:** Haven't mapped yet
 
 ---
 
@@ -41,7 +41,7 @@ Use this as a starting template. Copy to a spreadsheet for easier sorting and fi
 | 9 | | | | | | | |
 | 10 | | | | | | | |
 
-*(Add rows as needed — most people have 50–200+ accounts)*
+*(Add rows as needed, most people have 50-200+ accounts)*
 
 ---
 
@@ -89,3 +89,7 @@ Accounts you found evidence of (in email, statements, etc.) but can't access or 
 ---
 
 *Print or copy to spreadsheet. Do not store this file with actual passwords.*
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

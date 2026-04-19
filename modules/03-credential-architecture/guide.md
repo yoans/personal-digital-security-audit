@@ -1,16 +1,16 @@
 # Module 3: Credential & Access Architecture
 *Not just "use a good password manager."*
 
-The vendor matters less than the architecture. How your credentials are organized, backed up, and recoverable determines whether you can survive a breach — or a forgotten master password. This module builds a system.
+The vendor matters less than the architecture. How your credentials are organized, backed up, and recoverable determines whether you can survive a breach, or a forgotten master password. This module builds a system.
 
-**Time required:** 2–3 hours to set up; ongoing maintenance is minimal  
+**Time required:** 2-3 hours to set up; ongoing maintenance is minimal  
 **Output:** A working credential system with no single points of failure
 
 ---
 
 ## Password Manager
 
-You need one. Browser password storage is not a password manager — it's a convenience feature with weak encryption and no portable backup.
+You need one. Browser password storage is not a password manager, it's a convenience feature with weak encryption and no portable backup.
 
 **Recommended:**
 
@@ -18,12 +18,12 @@ You need one. Browser password storage is not a password manager — it's a conv
 |---|---|---|
 | **Bitwarden** | Open source, independently audited, generous free tier, self-hostable, passkey support | Free / $10/yr premium |
 | **1Password** | Excellent UX, strong security model, good for families | $3/mo |
-| **Apple Keychain** | Convenient if fully in Apple ecosystem — acceptable, but ties you to Apple as a hub | Free |
+| **Apple Keychain** | Convenient if fully in Apple ecosystem, acceptable, but ties you to Apple as a hub | Free |
 
 **Avoid:**
-- LastPass — multiple breaches including encrypted vault theft; slow, insufficient response
-- Browser-only storage (Chrome, Firefox built-in) — not portable, no 2FA on the vault itself
-- Reusing passwords — one breach exposes everything
+- LastPass, multiple breaches including encrypted vault theft; slow, insufficient response
+- Browser-only storage (Chrome, Firefox built-in), not portable, no 2FA on the vault itself
+- Reusing passwords, one breach exposes everything
 
 **What your password manager must do:**
 - Encrypt the vault locally before syncing (zero-knowledge)
@@ -45,21 +45,21 @@ Use the strongest available method. From best to worst:
 | **Email OTP** | ❌ No | Depends | Use only as fallback |
 | **SMS** | ❌ No | ❌ No | Avoid on anything important |
 
-**Phishing resistant** means the 2FA cannot be intercepted by a fake login page — FIDO2/hardware keys verify the actual domain cryptographically.
+**Phishing resistant** means the 2FA cannot be intercepted by a fake login page, FIDO2/hardware keys verify the actual domain cryptographically.
 
 **Authenticator app recommendations:**
-- **Ente Auth** — open source, encrypted backup, works offline — top pick
-- **Aegis** (Android only) — open source, good backup options
-- **Raivo** (iOS only) — open source
+- **Ente Auth:** open source, encrypted backup, works offline, top pick
+- **Aegis** (Android only), open source, good backup options
+- **Raivo** (iOS only), open source
 - Avoid Google Authenticator and Microsoft Authenticator for portability/backup reasons unless you've verified their backup encryption
 
 ---
 
 ## Hardware Keys (FIDO2 / YubiKey)
 
-A hardware key is a physical USB/NFC device. To log in, you insert it and touch it. It cannot be phished — it verifies the actual domain you're on before signing.
+A hardware key is a physical USB/NFC device. To log in, you insert it and touch it. It cannot be phished, it verifies the actual domain you're on before signing.
 
-**When to use:** On your most critical hub accounts — email, password manager, financial accounts.
+**When to use:** On your most critical hub accounts, email, password manager, financial accounts.
 
 **Getting started:**
 - Buy two keys (one primary, one backup stored securely). Don't have only one.
@@ -76,8 +76,8 @@ Passkeys are the FIDO2 standard implemented into app and web logins. They're phi
 **Adopt passkeys everywhere they're offered.** When a service offers "sign in with passkey," take it.
 
 **Where to store passkeys:**
-- Your password manager (Bitwarden, 1Password) — portable, not locked to a device
-- Apple Keychain, Google Password Manager — convenient but platform-tied
+- Your password manager (Bitwarden, 1Password), portable, not locked to a device
+- Apple Keychain, Google Password Manager, convenient but platform-tied
 
 ---
 
@@ -87,10 +87,10 @@ This answers: *"If I'm incapacitated or dead, can someone I trust access what th
 
 **The kit contains:**
 - Your password manager name and account email
-- A hint for your master password (NOT the password itself — a hint only you and your trusted person would understand)
+- A hint for your master password (NOT the password itself, a hint only you and your trusted person would understand)
 - Location of your hardware keys
 - Recovery codes for: primary email, authenticator app, password manager
-- Your critical account list (service names and usernames — no passwords)
+- Your critical account list (service names and usernames, no passwords)
 - Step-by-step instructions for what to do first in an emergency
 - Your carrier PIN (masked or split)
 
@@ -106,12 +106,12 @@ This answers: *"If I'm incapacitated or dead, can someone I trust access what th
 
 When a service you use announces a data breach:
 
-1. **Change the password for that service immediately** — don't wait for the service to force it
-2. **Check if you reused that password anywhere** — if yes, change it everywhere
+1. **Change the password for that service immediately:** don't wait for the service to force it
+2. **Check if you reused that password anywhere:** if yes, change it everywhere
 3. **Enable 2FA on that service if not already on**
 4. **Check HaveIBeenPwned** to see if your email shows up in the specific breach
-5. **Monitor connected accounts** — if the breached service was used for SSO anywhere, check those accounts for unusual activity over the next 30 days
-6. **Watch for phishing** — breach victims are immediately targeted with follow-on phishing using data from the breach
+5. **Monitor connected accounts:** if the breached service was used for SSO anywhere, check those accounts for unusual activity over the next 30 days
+6. **Watch for phishing:** breach victims are immediately targeted with follow-on phishing using data from the breach
 
 ---
 
@@ -153,6 +153,10 @@ When a service you use announces a data breach:
 ---
 
 ## Agent Prompt
-Use an AI agent to audit your current setup and get a prioritized action list: [Agent Prompt — Credential Architecture](/agent-prompts/03-credential-architecture.md)
+Use an AI agent to audit your current setup and get a prioritized action list: [Agent Prompt: Credential Architecture](/agent-prompts/03-credential-architecture.md)
 
-**Next:** [Module 4 — Device & Network Baseline](/modules/04-device-network/guide.md)
+**Next:** [Module 4: Device & Network Baseline](/modules/04-device-network/guide.md)
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

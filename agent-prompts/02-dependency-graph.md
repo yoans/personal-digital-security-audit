@@ -6,7 +6,7 @@
 ## Prompt
 
 ```
-I've completed a basic account inventory and I need help mapping out my dependency graph — which of my accounts are "hubs" that could cascade into others if compromised, and which are standalone "leaf" accounts.
+I've completed a basic account inventory and I need help mapping out my dependency graph, which of my accounts are "hubs" that could cascade into others if compromised, and which are standalone "leaf" accounts.
 
 Here is my account list:
 [PASTE YOUR MODULE 1 ACCOUNT TABLE HERE]
@@ -18,13 +18,13 @@ For each account, I want you to ask me:
 4. Do I have 2FA on this? If so, what type? (SMS / authenticator app / hardware key / none)
 5. If I lost access to this account today, what else would I lose access to?
 
-Work through each account systematically. Don't rush — some of these answers will surface things I haven't thought about.
+Work through each account systematically. Don't rush, some of these answers will surface things I haven't thought about.
 
 After we've been through all accounts, give me:
 
 1. A dependency map table with columns: Account | Type (Hub/Leaf) | Resets Via | 2FA Method | Blast Radius (what collapses if this falls)
 
-2. A list of my single points of failure — accounts where losing access or having it compromised would cause disproportionate damage
+2. A list of my single points of failure, accounts where losing access or having it compromised would cause disproportionate damage
 
 3. A red flag list, prioritized by severity:
    - Any hub accounts using SMS as 2FA (SIM swap vulnerable)
@@ -42,13 +42,13 @@ Be direct. If something is a critical gap, say so clearly.
 ## What to Do With the Output
 
 1. Add the dependency map table to your account inventory spreadsheet
-2. Sort the red flag list — tackle Priority 1 items (SMS on hubs) this week in Module 3
-3. Call your mobile carrier this week and add an account PIN and/or number lock — even before you fix the 2FA
+2. Sort the red flag list, tackle Priority 1 items (SMS on hubs) this week in Module 3
+3. Call your mobile carrier this week and add an account PIN and/or number lock, even before you fix the 2FA
 
 ---
 
 ## Notes
 
-- If you have more than ~20 accounts, work through the hub accounts first (email, phone, Apple/Google ID, password manager, banking) — these are the ones that matter most
-- Your phone number often appears as a hidden hub even if it's not an "account" — include it explicitly in the analysis
+- If you have more than ~20 accounts, work through the hub accounts first (email, phone, Apple/Google ID, password manager, banking), these are the ones that matter most
+- Your phone number often appears as a hidden hub even if it's not an "account", include it explicitly in the analysis
 - Do not paste passwords into the AI chat

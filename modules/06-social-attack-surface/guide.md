@@ -1,9 +1,9 @@
 # Module 6: Social Attack Surface
 *OSINT yourself before someone else does.*
 
-An AI agent doing recon on you will, starting from your name and a general location, find your address history, family members, employer history, phone numbers, email addresses, and likely political and religious affiliations — in under ten minutes, for free, from public sources. Most people have no idea how much is available. This module is about finding out, then reducing it.
+An AI agent doing recon on you will, starting from your name and a general location, find your address history, family members, employer history, phone numbers, email addresses, and likely political and religious affiliations, in under ten minutes, for free, from public sources. Most people have no idea how much is available. This module is about finding out, then reducing it.
 
-**Time required:** 2–3 hours initial audit; data broker removal is ongoing  
+**Time required:** 2-3 hours initial audit; data broker removal is ongoing  
 **Output:** A clear picture of your public exposure; a removal plan
 
 ---
@@ -13,11 +13,11 @@ An AI agent doing recon on you will, starting from your name and a general locat
 From data brokers and public records (no hacking required):
 - Full legal name and all known aliases
 - Current and historical addresses (often 10+ years)
-- Phone numbers — current and historical
+- Phone numbers, current and historical
 - Email addresses
 - Family members and their relationships
 - Employer history
-- Associated court records (civil and criminal — public in most states)
+- Associated court records (civil and criminal, public in most states)
 - Property records and estimated home value
 - Voter registration data (in many US states, this is fully public)
 - Vehicle registration (some states)
@@ -55,15 +55,15 @@ Run these searches as if you were a stranger trying to build a dossier:
 
 **Image search:**
 - Upload your profile photo to [Google Images](https://images.google.com) and [TinEye](https://tineye.com) (reverse image search)
-- This shows every site where that photo appears and any similar photos — relevant if you've used the same photo across services
+- This shows every site where that photo appears and any similar photos, relevant if you've used the same photo across services
 
 **Breach check:**
-- [HaveIBeenPwned](https://haveibeenpwned.com) — all your email addresses
-- Firefox Monitor — ongoing monitoring
+- [HaveIBeenPwned](https://haveibeenpwned.com), all your email addresses
+- Firefox Monitor, ongoing monitoring
 
 **Username search:**
-- [Sherlock](https://github.com/sherlock-project/sherlock) — open source CLI tool that searches 300+ sites for a username
-- [WhatsMyName](https://whatsmyname.app) — web-based alternative
+- [Sherlock](https://github.com/sherlock-project/sherlock), open source CLI tool that searches 300+ sites for a username
+- [WhatsMyName](https://whatsmyname.app), web-based alternative
 
 **Data broker spot check:**
 Visit and search your name on these manually to gauge your exposure:
@@ -76,12 +76,12 @@ Spokeo, Whitepages, Radaris, BeenVerified, Intelius, Instant Checkmate, TruthFin
 Data brokers aggregate and sell your personal information. You have the legal right to opt out. It's tedious but effective over time.
 
 **Manual removal (free):**
-Each broker has an opt-out form — typically buried deep in their site. Search: `[broker name] opt out` or `[broker name] remove my information`.
+Each broker has an opt-out form, typically buried deep in their site. Search: `[broker name] opt out` or `[broker name] remove my information`.
 
 Top 20 to prioritize:
 Spokeo, Whitepages, Intelius, BeenVerified, Radaris, US Search, MyLife, Pipl, FamilyTreeNow, Addresses.com, AnyWho, CheckPeople, ClustrMaps, IdCrawl, Instant Checkmate, PeekYou, PublicInfoServices, SearchPeopleFree, TruthFinder, ZabaSearch
 
-Track your submissions in a spreadsheet — many re-list you after 30–90 days and you'll need to re-submit.
+Track your submissions in a spreadsheet, many re-list you after 30-90 days and you'll need to re-submit.
 
 **Automated removal (paid):**
 Services that submit opt-outs on your behalf and re-submit when you're re-listed:
@@ -111,14 +111,14 @@ For each platform you're on, review:
 - Is your profile photo reverse-searchable? Consider using a different photo on public vs. personal accounts.
 
 **Past posts:**
-- Location data in posts — was auto-location tagging on? Many old posts may have precise location embedded
+- Location data in posts, was auto-location tagging on? Many old posts may have precise location embedded
 - Old posts that expose information you'd rather not have public (home address, workplace, family member names, opinions you no longer hold)
 - Photos posted that contain visible addresses, license plates, or location clues in the background
 
 **Specific platform guides (search for current instructions as these change):**
 - Facebook: Settings & Privacy → Privacy Shortcuts
 - Instagram: Settings → Account → Privacy
-- LinkedIn: Settings → Privacy — note: LinkedIn is a significant professional OSINT source and most of it is intended to be public; focus on what you can control
+- LinkedIn: Settings → Privacy, note: LinkedIn is a significant professional OSINT source and most of it is intended to be public; focus on what you can control
 - Twitter/X: Settings → Privacy and Safety
 
 ---
@@ -126,11 +126,11 @@ For each platform you're on, review:
 ## Step 4: Reduce Future Exposure
 
 **Email aliases:**
-Never give your real email address to services you don't fully trust. Use an alias — when that alias gets spammed or breached, you delete it and create a new one, without any impact on your real address.
+Never give your real email address to services you don't fully trust. Use an alias, when that alias gets spammed or breached, you delete it and create a new one, without any impact on your real address.
 
-- **SimpleLogin** — open source, aliases forwarded to your real address, free tier — [simplelogin.io](https://simplelogin.io)
-- **Apple Hide My Email** — works within Apple ecosystem, easy
-- **Fastmail + aliases** — good if you pay for Fastmail
+- **SimpleLogin:** open source, aliases forwarded to your real address, free tier, [simplelogin.io](https://simplelogin.io)
+- **Apple Hide My Email:** works within Apple ecosystem, easy
+- **Fastmail + aliases:** good if you pay for Fastmail
 
 **Phone number:**
 - Don't give your real mobile number to every service. Use a **Google Voice** or **Hushed** number as your "public" number for signups and services.
@@ -188,6 +188,10 @@ If you maintain a professional presence and personal social presence, consider u
 ---
 
 ## Agent Prompt
-[Agent Prompt — Social Attack Surface](/agent-prompts/06-social-attack-surface.md)
+[Agent Prompt: Social Attack Surface](/agent-prompts/06-social-attack-surface.md)
 
-**Next:** [Module 7 — AI Threat Literacy](/modules/07-ai-threat-literacy/guide.md)
+**Next:** [Module 7: AI Threat Literacy](/modules/07-ai-threat-literacy/guide.md)
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

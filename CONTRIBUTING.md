@@ -15,7 +15,7 @@ This is a community-maintained public resource. All contributions are welcome.
 ## Standards
 - Write for a non-technical adult as the primary audience
 - Technical depth is welcome in clearly marked sections or appendices
-- No vendor promotion without disclosure — tool recommendations must be justified
+- No vendor promotion without disclosure, tool recommendations must be justified
 - Scenarios and examples should be realistic, not theoretical
 - Keep language honest: don't minimize real threats or manufacture fear
 - **Privacy first:** Never include content that encourages users to share sensitive information with untrusted services. Every agent prompt must include clear privacy guidance.

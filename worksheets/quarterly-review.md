@@ -23,7 +23,7 @@
 
 ## Devices & Network
 
-- [ ] Run Fing scan on home network — any unfamiliar devices?
+- [ ] Run Fing scan on home network, any unfamiliar devices?
 - [ ] Router firmware: checked for updates?
 - [ ] Any devices needing OS updates that weren't auto-applied?
 - [ ] Any new IoT devices added? On guest network?
@@ -52,7 +52,7 @@
 - [ ] Playbook still accurate? Phone numbers current? Recovery contacts current?
 - [ ] Any family members to check in with about their security posture?
 
-**Trigger list — re-audit when any of these happen:**
+**Trigger list, re-audit when any of these happen:**
 - New job or leaving a job
 - New relationship or separation
 - Move to a new address
@@ -87,3 +87,7 @@
 
 *Set the next review date before closing this one.*  
 **Next review:** _____________
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

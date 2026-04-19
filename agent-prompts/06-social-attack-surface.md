@@ -6,7 +6,7 @@
 ## Prompt
 
 ```
-I want to understand my social attack surface — what a malicious actor or AI agent could learn about me from publicly available information. Help me audit my exposure and build a plan to reduce it.
+I want to understand my social attack surface, what a malicious actor or AI agent could learn about me from publicly available information. Help me audit my exposure and build a plan to reduce it.
 
 Start by asking me:
 1. What is your full legal name?
@@ -18,7 +18,7 @@ Start by asking me:
 Then walk me through this audit:
 
 **Step 1: Search strings to run**
-Give me the exact Google and search engine queries I should run on myself right now — based on the information I give you. Include:
+Give me the exact Google and search engine queries I should run on myself right now, based on the information I give you. Include:
 - Name + location combinations
 - Name + employer (ask me for this)
 - Email address searches
@@ -50,7 +50,7 @@ Then give me specific recommendations for each.
 At the end, give me:
 1. A realistic summary of my current exposure level (low / medium / high) and why
 2. The top 5 most impactful things I can do to reduce it, ordered by impact per effort
-3. What I cannot remove or fully control — and how to account for that
+3. What I cannot remove or fully control, and how to account for that
 
 Be honest, not alarming. The goal is accurate information and an actionable plan, not fear.
 ```
@@ -59,24 +59,24 @@ Be honest, not alarming. The goal is accurate information and an actionable plan
 
 ## What to Do With the Output
 
-1. Run the searches immediately — don't schedule it. The point is to see what exists right now.
+1. Run the searches immediately, don't schedule it. The point is to see what exists right now.
 2. Create a tracking spreadsheet for data broker removal requests: columns for Broker Name, Date Submitted, Expected Processing Time, and Follow-up Date. Many re-list you within 90 days.
-3. If the agent recommends an automated service (Incogni, DeleteMe) and your exposure is medium or high — it's worth the cost.
+3. If the agent recommends an automated service (Incogni, DeleteMe) and your exposure is medium or high, it's worth the cost.
 
 ---
 
 ## Search Tools to Have Open
 
-- [haveibeenpwned.com](https://haveibeenpwned.com) — email breach check
-- [whatsmyname.app](https://whatsmyname.app) — username search across platforms
-- [tineye.com](https://tineye.com) — reverse image search
-- [Google Images](https://images.google.com) — reverse image search (drag a photo in)
+- [haveibeenpwned.com](https://haveibeenpwned.com), email breach check
+- [whatsmyname.app](https://whatsmyname.app), username search across platforms
+- [tineye.com](https://tineye.com), reverse image search
+- [Google Images](https://images.google.com), reverse image search (drag a photo in)
 
 ---
 
 ## Notes
 
 - Don't paste your SSN, passport number, or financial account numbers into the chat
-- Be specific about your name variations — nicknames, maiden names, married names all create separate exposure
-- If you have an unusual name that appears in public records (court cases, property ownership, business filings), mention this — your exposure profile will be different than someone with a common name
-- The agent cannot run searches for you — it can generate the exact queries for you to run yourself
+- Be specific about your name variations, nicknames, maiden names, married names all create separate exposure
+- If you have an unusual name that appears in public records (court cases, property ownership, business filings), mention this, your exposure profile will be different than someone with a common name
+- The agent cannot run searches for you, it can generate the exact queries for you to run yourself

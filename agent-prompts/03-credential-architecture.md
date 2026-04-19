@@ -37,13 +37,13 @@ Walk through these areas one at a time:
 - Are there services I use regularly that offer passkeys that I haven't adopted yet?
 
 **6. Emergency Access**
-- Do I have an "emergency access kit" — a way for a trusted person or future me to recover access if I'm incapacitated?
+- Do I have an "emergency access kit", a way for a trusted person or future me to recover access if I'm incapacitated?
 - Where is it stored? Is it both physically accessible and secure?
 - Does it include: master password hint, hardware key locations, backup recovery codes, critical account list?
 
 After I've answered all of these, give me:
 
-1. **What I'm doing well** (brief — don't pad this)
+1. **What I'm doing well** (brief, don't pad this)
 
 2. **Critical gaps** (these are things to fix this week):
    - Label each one with why it's critical in one sentence
@@ -51,7 +51,7 @@ After I've answered all of these, give me:
 3. **Important improvements** (fix this month):
    - Specific, actionable steps for each
 
-4. **What "done" looks like** — a clear description of the credential posture I should have when this module is complete
+4. **What "done" looks like:** a clear description of the credential posture I should have when this module is complete
 
 Be direct. Don't soften findings. A gap that leaves me vulnerable to a SIM swap or vault loss should be called out as what it is.
 ```
@@ -60,7 +60,7 @@ Be direct. Don't soften findings. A gap that leaves me vulnerable to a SIM swap 
 
 ## What to Do With the Output
 
-1. Fix any SMS 2FA on hub accounts first — replace with an authenticator app this week
+1. Fix any SMS 2FA on hub accounts first, replace with an authenticator app this week
 2. If you don't have a password manager, set up Bitwarden before anything else: [bitwarden.com](https://bitwarden.com)
 3. If you don't have backup codes stored somewhere accessible, generate and store them today
 4. Hardware key: if you're budget-constrained, one YubiKey 5 NFC (~$55) on your primary email and password manager is a significant upgrade
@@ -69,6 +69,6 @@ Be direct. Don't soften findings. A gap that leaves me vulnerable to a SIM swap 
 
 ## Notes
 
-- Do not tell the AI your actual passwords or master password — even a partial or hint should stay private unless you're doing this locally
+- Do not tell the AI your actual passwords or master password, even a partial or hint should stay private unless you're doing this locally
 - If you discover reused passwords, you can ask the AI to help you prioritize which ones to rotate first (by blast radius from Module 2)
 - The Bitwarden free tier is sufficient for most people; $10/yr for premium gets you TOTP storage and emergency access features

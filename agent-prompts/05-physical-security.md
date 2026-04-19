@@ -6,7 +6,7 @@
 ## Prompt
 
 ```
-Help me assess my physical security posture. Ask me about each area below, take my answers seriously, and give me a concrete status report at the end — not generic advice, but specific gaps based on what I tell you.
+Help me assess my physical security posture. Ask me about each area below, take my answers seriously, and give me a concrete status report at the end, not generic advice, but specific gaps based on what I tell you.
 
 **1. Mail and Incoming Documents**
 - Is my mailbox locked?
@@ -44,22 +44,22 @@ After I answer, give me a status report structured as:
 **Green (already handled):**
 [list items in good shape]
 
-**Yellow (partial — needs attention):**
+**Yellow (partial, needs attention):**
 [list items I'm half-doing with the specific gap]
 
-**Red (not done — risk exposure):**
+**Red (not done, risk exposure):**
 [list items I'm missing, with one sentence on the actual risk each gap creates]
 
-Then give me an action list sorted by impact per time invested — the 15-minute wins first.
+Then give me an action list sorted by impact per time invested, the 15-minute wins first.
 ```
 
 ---
 
 ## What to Do With the Output
 
-1. If your answer to "do you have a credit freeze" is no — do this first. It takes about 20 minutes across all three bureaus and costs nothing: Experian, Equifax, TransUnion. It prevents new accounts from being opened in your name regardless of what other information an attacker has.
+1. If your answer to "do you have a credit freeze" is no, do this first. It takes about 20 minutes across all three bureaus and costs nothing: Experian, Equifax, TransUnion. It prevents new accounts from being opened in your name regardless of what other information an attacker has.
 
-2. If you don't have a shredder — a cross-cut model is under $40 at any office supply store. Everything in Module 6 (your social attack surface) starts with physical documents.
+2. If you don't have a shredder, a cross-cut model is under $40 at any office supply store. Everything in Module 6 (your social attack surface) starts with physical documents.
 
 3. USPS Informed Delivery is free and takes 3 minutes to set up: [informeddelivery.usps.com](https://informeddelivery.usps.com)
 
@@ -68,5 +68,5 @@ Then give me an action list sorted by impact per time invested — the 15-minute
 ## Notes
 
 - Don't include your actual SSN, account numbers, or home address in the chat
-- "Found My Device" (Google) and "Find My" (Apple) must be enabled *before* a device is lost — verify this now while you have the device in hand
+- "Found My Device" (Google) and "Find My" (Apple) must be enabled *before* a device is lost, verify this now while you have the device in hand
 - The Social Security card: if it's in your wallet, take it out today and store it with your other critical documents. You almost never need the physical card.

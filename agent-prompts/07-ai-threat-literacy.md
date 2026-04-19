@@ -12,10 +12,10 @@ Structure the session in four parts:
 
 **Part 1: Accurate Threat Model (briefing, not fear-mongering)**
 
-Start by giving me a clear, specific description of what Mythos-class AI agents can actually do as of 2026 — what's documented, not speculative. Cover:
+Start by giving me a clear, specific description of what Mythos-class AI agents can actually do as of 2026, what's documented, not speculative. Cover:
 - What they can find about a person from public sources alone
 - What spear phishing looks like when it's AI-generated and personalized
-- What voice cloning and video deepfakes currently look like — realistic capabilities, not sci-fi
+- What voice cloning and video deepfakes currently look like, realistic capabilities, not sci-fi
 - What they cannot do reliably yet
 
 Be specific. Vague threat descriptions aren't useful. If a capability is documented, say what it is. If something is overstated by the media, say that too.
@@ -33,11 +33,11 @@ Scenarios should cover:
 - A voice message from someone claiming to be a family member with an urgent financial request
 - A text message alert claiming unusual activity on a financial account
 
-Make the scenarios realistic — not obviously fake. The goal is to test my actual detection, not give me something a 10-year-old would spot.
+Make the scenarios realistic, not obviously fake. The goal is to test my actual detection, not give me something a 10-year-old would spot.
 
 **Part 3: Deepfake Recognition**
 
-Describe for me — in specific, practical terms — the current tells to look for in a live deepfake video call. Then tell me honestly how long these heuristics will remain reliable.
+Describe for me, in specific, practical terms, the current tells to look for in a live deepfake video call. Then tell me honestly how long these heuristics will remain reliable.
 
 Then give me 3 questions I can ask in any suspicious call that would be difficult for a deepfake or impersonation to answer convincingly.
 
@@ -50,8 +50,8 @@ Help me design my personal verification protocol. Ask me:
 
 Then help me design:
 - A backup contact channel for each person (if normal channel is unavailable)
-- A verification phrase or signal I should establish with each — something not in any public record, not mentioned online, known only to us
-- My 3 personal rules for verification — specific to how I live and who I communicate with
+- A verification phrase or signal I should establish with each, something not in any public record, not mentioned online, known only to us
+- My 3 personal rules for verification, specific to how I live and who I communicate with
 
 At the end of the session, summarize:
 - My current threat detection calibration (where I was sharp, where I fell for it)
@@ -63,16 +63,16 @@ At the end of the session, summarize:
 
 ## How to Get the Most From This Session
 
-**Before you start:** Tell the agent your employer name so the phishing scenario is realistic. Don't name your actual family members — use "my sibling" or "my parent."
+**Before you start:** Tell the agent your employer name so the phishing scenario is realistic. Don't name your actual family members, use "my sibling" or "my parent."
 
 **During the scenarios:** Respond the way you actually would, not the way you think you're supposed to. The value is in accurate self-assessment, not performing well.
 
-**After the session:** Write down your 3 personal verification rules somewhere you'll remember them. Then — critically — have a short in-person or private call with your 1-2 verification anchor people and agree on the verification phrase. The phrase is only useful if both parties know it.
+**After the session:** Write down your 3 personal verification rules somewhere you'll remember them. Then, critically, have a short in-person or private call with your 1-2 verification anchor people and agree on the verification phrase. The phrase is only useful if both parties know it.
 
 ---
 
 ## Notes
 
 - This module works best with a model that can simulate realistic social engineering. Claude and GPT-4 are both capable of generating convincing phishing scenarios for training purposes.
-- The verification phrase should never be written in any chat log, cloud document, or email thread — agree on it verbally
+- The verification phrase should never be written in any chat log, cloud document, or email thread, agree on it verbally
 - If you're skeptical about voice cloning: 30-second audio samples from voicemails, videos, or podcast appearances are sufficient for current voice cloning tools. Anyone with a public voice profile is already cloneable.

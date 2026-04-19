@@ -1,9 +1,9 @@
 # Module 2: Dependency Graph
 *Map what breaks if each account falls.*
 
-The question isn't "is this account secure?" It's "if this account is compromised or deleted, what else collapses with it?" Most people discover their entire digital life is balanced on 2–3 identity hubs they haven't thought carefully about.
+The question isn't "is this account secure?" It's "if this account is compromised or deleted, what else collapses with it?" Most people discover their entire digital life is balanced on 2-3 identity hubs they haven't thought carefully about.
 
-**Time required:** 1–2 hours  
+**Time required:** 1-2 hours  
 **Prerequisite:** Module 1 account list
 
 **Output:** A dependency map and a list of single points of failure to eliminate.
@@ -12,13 +12,13 @@ The question isn't "is this account secure?" It's "if this account is compromise
 
 ## Key Concepts
 
-**Hub account** — If compromised, an attacker can take over many other accounts via password reset, SSO, or shared credentials. Losing it destroys your access to dependent services. Examples: primary email, phone number, Apple ID, Google account, password manager.
+**Hub account:** If compromised, an attacker can take over many other accounts via password reset, SSO, or shared credentials. Losing it destroys your access to dependent services. Examples: primary email, phone number, Apple ID, Google account, password manager.
 
-**Leaf account** — Stands alone. Losing it doesn't cascade. Examples: a streaming service, a forum account, a pizza app.
+**Leaf account:** Stands alone. Losing it doesn't cascade. Examples: a streaming service, a forum account, a pizza app.
 
-**Recovery chain** — Account A can reset B, which can reset C. If A is taken, C is gone even if C has a strong password and 2FA.
+**Recovery chain:** Account A can reset B, which can reset C. If A is taken, C is gone even if C has a strong password and 2FA.
 
-**Blast radius** — The total scope of damage if a given account is compromised.
+**Blast radius:** The total scope of damage if a given account is compromised.
 
 ---
 
@@ -67,7 +67,7 @@ Extend your Module 1 account list with these columns:
 |---|---|---|---|---|---|
 | Gmail | **Hub** | Recovery phone + backup email | App auth | All Google services, everything that resets here | 40+ accounts |
 | Apple ID | **Hub** | Email + phone | SMS ⚠️ | All Apple services, App Store purchases, iCloud | iCloud backup, all iOS apps |
-| Personal phone # | **Hub** | Carrier | — | Any account using SMS 2FA | SMS-based 2FA everywhere |
+| Personal phone # | **Hub** | Carrier | - | Any account using SMS 2FA | SMS-based 2FA everywhere |
 | Netflix | Leaf | Gmail | SMS | Nothing | Just Netflix |
 
 ---
@@ -96,10 +96,10 @@ Extend your Module 1 account list with these columns:
 
 Your phone number is often the weakest hub. Steps to reduce exposure:
 
-1. **Add a carrier PIN/passcode** — call your carrier and add a PIN required to make account changes. All major US carriers support this.
-2. **Enable number lock** — T-Mobile and Verizon offer explicit SIM lock features.
-3. **Remove SMS 2FA from hub accounts** — replace with an authenticator app or hardware key (see Module 3).
-4. **Consider a Google Voice or silent VoIP number** as the "public" number you give to services — keep your real SIM number private.
+1. **Add a carrier PIN/passcode:** call your carrier and add a PIN required to make account changes. All major US carriers support this.
+2. **Enable number lock:** T-Mobile and Verizon offer explicit SIM lock features.
+3. **Remove SMS 2FA from hub accounts:** replace with an authenticator app or hardware key (see Module 3).
+4. **Consider a Google Voice or silent VoIP number** as the "public" number you give to services, keep your real SIM number private.
 
 ---
 
@@ -114,7 +114,7 @@ Your phone number is often the weakest hub. Steps to reduce exposure:
 ---
 
 ## Agent Prompt
-Use an AI agent to help map your dependencies: [Agent Prompt — Dependency Graph](/agent-prompts/02-dependency-graph.md)
+Use an AI agent to help map your dependencies: [Agent Prompt: Dependency Graph](/agent-prompts/02-dependency-graph.md)
 
 ---
 
@@ -128,4 +128,8 @@ Use an AI agent to help map your dependencies: [Agent Prompt — Dependency Grap
 - [ ] Built dependency map table
 - [ ] Prioritized red flags for Module 3 action
 
-**Next:** [Module 3 — Credential & Access Architecture](/modules/03-credential-architecture/guide.md)
+**Next:** [Module 3: Credential & Access Architecture](/modules/03-credential-architecture/guide.md)
+
+---
+
+*Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*
