@@ -92,4 +92,14 @@ Accounts you found evidence of (in email, statements, etc.) but can't access or 
 
 ---
 
+## What's Next
+
+Once your inventory is reasonably complete (you'll keep adding to it), move on:
+
+> **→ [Module 2: Dependency Graph](/modules/02-dependency-graph/guide.md)** — map what breaks if each account falls.
+
+Return anytime: [Module 1 guide](/modules/01-identity-inventory/guide.md) · [Master Checklist](/worksheets/master-checklist.md)
+
+---
+
 *Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

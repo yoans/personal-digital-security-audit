@@ -81,3 +81,13 @@ Every prompt in this folder includes a notes section reminding you what not to s
 1. **If it could be used to take over an account, don't type it into a chat**
 2. **If you're not sure, use a local model**
 3. **If you don't want to use AI, the guides work on their own**
+
+---
+
+## Ready to Start?
+
+Pick the module you're working on right now. The agent prompts are most useful when you have the matching module guide open in another tab.
+
+> **→ New to the audit?** Start with **[Module 1: Identity Inventory](/modules/01-identity-inventory/guide.md)** and use the [Identity Inventory agent prompt](01-identity-inventory.md) alongside it.
+
+Or jump back to the [Home page](/) or [Master Checklist](/worksheets/master-checklist.md).

@@ -6,6 +6,8 @@ An AI agent doing recon on you will, starting from your name and a general locat
 **Time required:** 2-3 hours initial audit; data broker removal is ongoing  
 **Output:** A clear picture of your public exposure; a removal plan
 
+> **Your next move:** run the searches in this guide on yourself, in a private browser window, before doing anything else. Want exact search strings and a removal plan? Use the [Social Attack Surface agent prompt](/agent-prompts/06-social-attack-surface.md).
+
 ---
 
 ## What's Available About You Right Now

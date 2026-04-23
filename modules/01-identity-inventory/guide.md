@@ -7,6 +7,8 @@ Most people have 200+ accounts. Many are forgotten. Forgotten accounts get breac
 
 **Output:** A master account list you'll use in every other module.
 
+> **Your next move:** open the [Account Inventory worksheet](/worksheets/account-inventory.md) in another tab so you can fill it in as you work through the steps below. Want an AI to walk you through it? Use the [Identity Inventory agent prompt](/agent-prompts/01-identity-inventory.md).
+
 ---
 
 ## Steps

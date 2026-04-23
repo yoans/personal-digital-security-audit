@@ -90,6 +90,10 @@ If an attacker took my phone number, they could access:
 
 *Complete, then move to Module 3: Credential Architecture.*
 
+> **→ [Module 3: Credential & Access Architecture](/modules/03-credential-architecture/guide.md)**
+
+Return anytime: [Module 2 guide](/modules/02-dependency-graph/guide.md) · [Master Checklist](/worksheets/master-checklist.md)
+
 ---
 
 *Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

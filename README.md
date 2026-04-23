@@ -38,6 +38,21 @@ If you're working through Module 1 (account inventory), don't export your passwo
 
 ---
 
+## Start Here
+
+You don't have to read this whole page first. Pick the path that fits you and go.
+
+| If you want to... | Click this |
+|---|---|
+| **Just start the audit, right now** | → **[Module 1: Identity Inventory](modules/01-identity-inventory/guide.md)** |
+| See the whole audit on one printable page | → [Master Checklist](worksheets/master-checklist.md) |
+| Use an AI assistant to walk you through it | → [Agent Prompts: How to Use](agent-prompts/README.md) |
+| Read the threat model first | ↓ keep scrolling |
+
+> **Recommended path:** open Module 1, work through the steps, mark items in the [Master Checklist](worksheets/master-checklist.md) as you go. Each module ends with a link to the next one. You will not get stranded.
+
+---
+
 ## The Threat We're Responding To
 
 Traditional cybersecurity advice was written for an era of human attackers and blunt automation. The rules have changed.
@@ -77,7 +92,9 @@ The v1 goal is simple: a person with no prior security knowledge reads the guide
 
 Each module is an independent audit track. They can be done in any order, but the sequence below is recommended.
 
-### 1. Identity Inventory
+**Click any module title to open its guide.** Each guide ends with a link to the next module so you can move straight through.
+
+### [1. Identity Inventory](modules/01-identity-inventory/guide.md)
 *Know every account that exists in your name.*
 
 Most people have 200+ accounts. Many are forgotten. Forgotten accounts are breached silently, and become pivot points into your active life.
@@ -87,7 +104,7 @@ Most people have 200+ accounts. Many are forgotten. Forgotten accounts are breac
 - Email alias strategy (never expose your primary email)
 - What "identity" actually means to an AI agent doing recon on you
 
-### 2. Dependency Graph
+### [2. Dependency Graph](modules/02-dependency-graph/guide.md)
 *Map what breaks if each account falls.*
 
 The question isn't "is this account secure?" It's "if this account is compromised or deleted, what else collapses with it?" Google, Apple ID, GitHub, your phone number, these are identity hubs. Map the blast radius of each.
@@ -97,7 +114,7 @@ The question isn't "is this account secure?" It's "if this account is compromise
 - Recovery chain audit (if you lose X, can you get it back without Y?)
 - Phone number dependency (SIM swap is still the #1 account takeover vector)
 
-### 3. Credential & Access Architecture
+### [3. Credential & Access Architecture](modules/03-credential-architecture/guide.md)
 *Not just "use a good password manager."*
 
 LastPass is fine. Bitwarden is better. But the architecture matters more than the vendor. How are your credentials organized, backed up, and recoverable without creating new attack surfaces?
@@ -108,7 +125,7 @@ LastPass is fine. Bitwarden is better. But the architecture matters more than th
 - Emergency access kit, the document that lets your family act if you're incapacitated
 - What to do *the day* a breach is announced
 
-### 4. Device & Network Baseline
+### [4. Device & Network Baseline](modules/04-device-network/guide.md)
 *Your devices are the edge of your perimeter.*
 
 - Personal device hardening (laptop, phone, tablet)
@@ -117,7 +134,7 @@ LastPass is fine. Bitwarden is better. But the architecture matters more than th
 - VPN strategy (when it helps, when it doesn't)
 - What a compromised device means vs. a compromised account
 
-### 5. Physical Security Layer
+### [5. Physical Security Layer](modules/05-physical-security/guide.md)
 *Attacks don't always start on a screen.*
 
 Physical access is the nuclear option. Mail theft, shoulder surfing, device theft, and social engineering in person are real and underestimated.
@@ -128,7 +145,7 @@ Physical access is the nuclear option. Mail theft, shoulder surfing, device thef
 - Travel security posture
 - The "lost device" drill
 
-### 6. Social Attack Surface
+### [6. Social Attack Surface](modules/06-social-attack-surface/guide.md)
 *OSINT yourself before someone else does.*
 
 An AI agent doing recon on you will find everything public about you in minutes. Most people have no idea what's available. This module is about understanding and reducing your exposure.
@@ -139,7 +156,7 @@ An AI agent doing recon on you will find everything public about you in minutes.
 - Data broker opt-out workflow
 - What can be inferred from what you can't delete
 
-### 7. AI Threat Literacy
+### [7. AI Threat Literacy](modules/07-ai-threat-literacy/guide.md)
 *Understanding what agent-driven attacks actually look like.*
 
 This module is educational and scenario-based. Real examples, simulated phishing, deepfake recognition, and the mental models needed to evaluate trust in a world where your "contacts" can be impersonated convincingly.
@@ -150,7 +167,7 @@ This module is educational and scenario-based. Real examples, simulated phishing
 - The "band of trust" principle, and how to authenticate requests that matter
 - What current frontier AI agents (Anthropic's Mythos-class models, demonstrated in Project Glasswing in April 2026) can actually do, in plain language
 
-### 8. Recovery Architecture & Ongoing Ops
+### [8. Recovery Architecture & Ongoing Ops](modules/08-recovery-architecture/guide.md)
 *Given a breach, how fast can you recover? What's the plan?*
 
 Security isn't a state you reach. It's a cadence. This module covers incident response for individuals and the quarterly/annual review process.
@@ -239,6 +256,14 @@ This is a community project, we don't have a prize budget. But the gamification 
 - [ ] v2 Web app with scoring and achievements
 - [ ] v2 Partnership integrations
 - [ ] v3 Community platform
+
+---
+
+## Ready? Start the Audit.
+
+> **→ [Begin with Module 1: Identity Inventory](modules/01-identity-inventory/guide.md)**
+
+Or grab the [printable Master Checklist](worksheets/master-checklist.md) and work the whole thing offline.
 
 ---
 

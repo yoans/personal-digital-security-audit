@@ -6,6 +6,8 @@ Strong credentials mean nothing if your device is compromised. A keylogger on yo
 **Time required:** 2-4 hours  
 **Output:** A device inventory with hardening status; a list of specific fixes
 
+> **Your next move:** sit down with each device in turn (laptop, phone, router) and walk the checks below. Want a guided audit? Use the [Device & Network agent prompt](/agent-prompts/04-device-network.md). Mark items in the [Master Checklist](/worksheets/master-checklist.md) as you go.
+
 ---
 
 ## Laptop / Desktop

@@ -8,6 +8,8 @@ The question isn't "is this account secure?" It's "if this account is compromise
 
 **Output:** A dependency map and a list of single points of failure to eliminate.
 
+> **Your next move:** open the [Dependency Graph worksheet](/worksheets/dependency-graph.md) and have your Module 1 account list ready. Want help mapping it? Use the [Dependency Graph agent prompt](/agent-prompts/02-dependency-graph.md).
+
 ---
 
 ## Key Concepts

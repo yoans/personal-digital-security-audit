@@ -6,6 +6,8 @@ Physical access bypasses most digital security controls. An attacker with 60 sec
 **Time required:** 1-2 hours to audit; some purchases may be needed  
 **Output:** Physical security gaps identified and addressed
 
+> **Your next move:** walk your home, mailbox, wallet, and travel kit while you read. Want a guided assessment with green/yellow/red status? Use the [Physical Security agent prompt](/agent-prompts/05-physical-security.md). Track items in the [Master Checklist](/worksheets/master-checklist.md).
+
 ---
 
 ## Mail & Documents

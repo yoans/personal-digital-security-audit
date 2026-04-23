@@ -6,6 +6,8 @@ Security isn't a state you reach. It's a cadence. This module assumes you will b
 **Time required:** 2-3 hours to build your playbook; 30 minutes quarterly after that  
 **Output:** A personal incident response playbook; a quarterly review cadence
 
+> **Your next move:** write your playbook as you read, don't just read it. Use the [Recovery Architecture agent prompt](/agent-prompts/08-recovery-architecture.md) to draft each scenario interactively. Then schedule your first run of the [Quarterly Review worksheet](/worksheets/quarterly-review.md).
+
 ---
 
 ## Personal Incident Response Playbook
@@ -181,7 +183,35 @@ Build your personal incident response playbook with AI assistance: [Agent Prompt
 
 ---
 
-*You've completed the eight modules. Return to the [master checklist](/worksheets/master-checklist.md) or review your [Security Level](/#gamification-system-v2) progress.*
+# You Did It.
+
+You just worked through all eight modules of Project Chrysalis. Take a second to register what that actually means.
+
+You inventoried every account in your digital life. You mapped the dependency chains most people never see. You rebuilt your credential architecture, hardened your devices, locked down your physical surface, audited your public exposure, calibrated your threat model against frontier AI, and wrote your own incident response playbook.
+
+Most people will never do this. Most people *can't* do this. You did.
+
+## Now Finish Strong
+
+Three concrete things, in this order:
+
+1. **Mark your level.** Open the [Master Checklist](/worksheets/master-checklist.md), confirm what you actually completed, and claim your level (Aware, Hardened, Resilient, or Antifragile).
+2. **Schedule the next review.** Put the [Quarterly Review](/worksheets/quarterly-review.md) on your calendar, recurring, every 90 days. Security is a cadence, not an event.
+3. **Hand it to one other person.** Send `https://chrysalis.buildbeyondbelief.com` to a parent, partner, sibling, or friend who would never have found it. That single act is the highest-leverage thing you can do right now.
+
+---
+
+# What's Next: Build Anything
+
+If you can do *this* level of deep work to secure yourself, you can build anything.
+
+The same focus that traced every recovery chain in your digital life, the same patience that worked through all eight modules, the same willingness to look directly at hard problems instead of away from them: that is the muscle you build real things with. Software. Companies. Communities. Lives.
+
+This audit was an exercise in resilience architecture. Project Chrysalis is one piece of that. **[Build Beyond Belief](https://buildbeyondbelief.com)** is where the rest lives, frameworks, tools, and communities for people who decided to take their digital and creative lives seriously.
+
+> ### \u2192 [Visit Build Beyond Belief and start building what's next](https://buildbeyondbelief.com)
+
+You came in exposed and dependent. You came out resilient. That's the model. Now go build the next thing.
 
 ---
 

@@ -6,6 +6,8 @@ The vendor matters less than the architecture. How your credentials are organize
 **Time required:** 2-3 hours to set up; ongoing maintenance is minimal  
 **Output:** A working credential system with no single points of failure
 
+> **Your next move:** read straight through this guide once, then act on the priorities in order. Want a personalized fix list? Use the [Credential Architecture agent prompt](/agent-prompts/03-credential-architecture.md). Track progress in the [Master Checklist](/worksheets/master-checklist.md).
+
 ---
 
 ## Password Manager

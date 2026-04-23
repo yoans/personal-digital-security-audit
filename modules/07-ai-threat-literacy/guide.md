@@ -8,6 +8,8 @@ This module is about accurate mental models, not fear. If you understand what AI
 **Time required:** 1-2 hours reading + scenario practice  
 **Output:** Calibrated threat model; personal verification protocol
 
+> **Your next move:** read this guide straight through, then run the [AI Threat Literacy agent prompt](/agent-prompts/07-ai-threat-literacy.md) for live phishing-scenario practice. Don't skip the verification protocol at the end.
+
 ---
 
 ## What Mythos-Class Agents Can Actually Do (As of 2026)

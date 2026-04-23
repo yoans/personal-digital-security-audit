@@ -90,4 +90,8 @@
 
 ---
 
+Return anytime: [Module 8 guide](/modules/08-recovery-architecture/guide.md) · [Master Checklist](/worksheets/master-checklist.md) · [Home](/)
+
+---
+
 *Project Chrysalis is a free public-safety resource published by [Build Beyond Belief](https://buildbeyondbelief.com). For more tools and frameworks designed to make you more resilient, visit [buildbeyondbelief.com](https://buildbeyondbelief.com).*

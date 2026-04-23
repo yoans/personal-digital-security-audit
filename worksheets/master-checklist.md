@@ -3,6 +3,8 @@
 
 Print this. Work through it. Track your progress. You don't have to do it all at once.
 
+> **New here?** Start with **[Module 1: Identity Inventory](/modules/01-identity-inventory/guide.md)**. Each module guide ends with a link to the next one. Come back here to mark items off as you complete them.
+
 ---
 
 ## How to Use
