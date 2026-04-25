@@ -1,6 +1,7 @@
 - **[Home](README.md)**
 - **[Before You Begin: Privacy](README.md#before-you-begin-protect-yourself)**
 - **[Master Checklist](worksheets/master-checklist.md)**
+- **[The Chrysalis Challenge](campaign/README.md)**
 
 ---
 
@@ -40,6 +41,12 @@
   - [Recommended Tools](tools/recommended-tools.md)
   - [Breach Scenarios](scenarios/breach-scenarios.md)
   - [Contributing](CONTRIBUTING.md)
+
+---
+
+- **Public Campaign**
+  - [The Chrysalis Challenge](campaign/README.md)
+  - [Sponsor the Challenge](campaign/sponsors.md)
 
 ---
 

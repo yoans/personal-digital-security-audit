@@ -48,8 +48,19 @@ You don't have to read this whole page first. Pick the path that fits you and go
 | See the whole audit on one printable page | → [Master Checklist](worksheets/master-checklist.md) |
 | Use an AI assistant to walk you through it | → [Agent Prompts: How to Use](agent-prompts/README.md) |
 | Read the threat model first | ↓ keep scrolling |
+| Join or sponsor the public challenge | → [The Chrysalis Challenge](campaign/README.md) |
 
 > **Recommended path:** open Module 1, work through the steps, mark items in the [Master Checklist](worksheets/master-checklist.md) as you go. Each module ends with a link to the next one. You will not get stranded.
+
+---
+
+## The Chrysalis Challenge
+
+Complete one module. Fix one real weakness. Help one other person.
+
+Project Chrysalis is designed to be useful even if someone only completes one module. If you want to participate publicly, share one lesson learned without private details and send the audit to one person who would not have found it on their own.
+
+If you make security tools and want to sponsor practical prizes for people doing the work, see [Sponsor the Chrysalis Challenge](campaign/sponsors.md). Prize verification must be privacy-preserving. Nobody should expose account names, recovery paths, passwords, codes, addresses, or private screenshots to win a prize.
 
 ---
 
